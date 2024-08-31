@@ -7,7 +7,7 @@ Cafe
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Pooneh Farzad
 
 - Created - 2024-08-29
 
