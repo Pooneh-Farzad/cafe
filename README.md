@@ -2,8 +2,7 @@ Cafe
 
 
 
-![viewfinal](![cafe](https://github.com/user-attachments/assets/46b262fc-7f7f-49a0-acfd-95209fcd455d))
-)
+![cafe](https://github.com/user-attachments/assets/46b262fc-7f7f-49a0-acfd-95209fcd455d)
 
 - [Demo Project](https://pooneh-farzad.github.io/cafe/)
 
